@@ -4,7 +4,7 @@
     <array name="options">
         <item>Drinks</item>
         <item>Food</item>
-        <item>Stores</item>
+        <item>Storez</item>
     </array>
     <string name="title_activity_drink_category" >Drink Category</string>
 </resources>
